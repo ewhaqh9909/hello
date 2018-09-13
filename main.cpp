@@ -4,6 +4,6 @@
 
 int main(int argc, char** argv) {
 	
-	printf("hello, sookmyung Clectronics!\n aaa");
+	printf("hello, sookmyung Clectronics!\n aaa aaaa");
 	return 0;
 }
